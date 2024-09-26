@@ -20,6 +20,7 @@ public class Player_Controller : MonoBehaviour
     CharacterController characterController;
     void Start()
     {
+        //This makes the cursor disapear when you click into the game scene
         characterController = GetComponent<CharacterController>();
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
