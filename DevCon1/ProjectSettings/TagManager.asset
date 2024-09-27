@@ -4,8 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Shuriken Blade
-  - Shuriken Center
+  - Piece1
+  - Piece2
+  - Piece3
+  - Piece4
+  - Piece5
   layers:
   - Default
   - TransparentFX
